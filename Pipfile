@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+h5py = "*"
+ipykernel = "*"
+tensorflow = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+scikit-image = "*"
+tqdm = "*"
+statannot = "*"
+einops = "*"
+keras-tuner = "*"
+pyarrow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
