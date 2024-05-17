@@ -1,5 +1,10 @@
 # Latent Factor learning by Data Augmentation (LFDA)
 
+Implementation for intracortical brain-computer interfaces for long-term use.  
+Feel free to utilize the code and cite this paper.  
+Shih-Hung Yang, Chun-Jui Huang, and Jhih-Siang Huang. “Increasing Robustness of Intracortical Brain-Computer Interfaces for Recording Condition Changes via Data Augmentation.” Computer Methods and Programs in Biomedicine, 2024.  
+https://doi.org/10.1016/j.cmpb.2024.108208
+
 ## ABSTRACT
 **Background and Objective:** Intracortical brain-computer interfaces (iBCIs) aim to help paralyzed individuals restore their motor functions by decoding neural activity into intended movement. However, changes in neural recording conditions hinder the decoding performance of iBCIs, mainly because the neural-to-kinematic mappings shift. Conventional approaches involve either training the neural decoders using large datasets before deploying the iBCI or conducting frequent calibrations during its operation. However, collecting data for extended periods can cause user fatigue, negatively impacting the quality and consistency of neural signals. Furthermore, frequent calibration imposes a substantial computational load.
 
